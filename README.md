@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahyarGarshasbi/Probabilistic-Flood-Mapping-with-Bayesian-Deep-Learning/main/Figures/FigM.pdf" width="850">
+  <img src="https://raw.githubusercontent.com/MahyarGarshasbi/Probabilistic-Flood-Mapping-with-Bayesian-Deep-Learning/main/Figures/FigM.png" width="850">
 </p>
 
 ---
